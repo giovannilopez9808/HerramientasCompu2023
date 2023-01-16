@@ -29,12 +29,6 @@
       <ul>
         <li>Valgraind</li>
       </ul>
-    </ul>
-</details>
-
-<details open="open">
-    <summary><h1>Opcionales</h1></summary>
-    <ul>
       <li>Editores de texto</li>
       <ul>
         <li>Vscode</li>
@@ -44,7 +38,8 @@
       <ul>
         <li>Tiling window manager</li>
         <li>Dotfiles</li>
-      </ul>
+       </ul>
+    </ul>
 </details>
 
 [contributors-shield]: https://img.shields.io/github/contributors/giovannilopez9808/Taller_python_ene2021.svg?style=for-the-badge
